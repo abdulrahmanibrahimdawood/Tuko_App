@@ -19,7 +19,7 @@ class Iteminfo extends StatelessWidget {
                 style: const TextStyle(fontSize: 20, color: Colors.white),
               ),
               Text(
-                iitteemm.egName,
+                iitteemm.enName,
                 style: const TextStyle(fontSize: 20, color: Colors.white),
               ),
             ],

@@ -3,11 +3,11 @@ import 'package:audioplayers/audioplayers.dart';
 class ItemModel {
   final String? image;
   final String jpName;
-  final String egName;
+  final String enName;
   final String sound;
   const ItemModel(
       {required this.sound,
-      required this.egName,
+      required this.enName,
       this.image,
       required this.jpName});
 

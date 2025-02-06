@@ -8,43 +8,43 @@ class PhrasesPage extends StatelessWidget {
   final List<ItemModel> itemModel = const [
     ItemModel(
         sound: 'sounds/numbers/number_one_sound.mp3',
-        egName: 'one',
+        enName: 'one',
         jpName: 'ichi'),
     ItemModel(
         sound: 'sounds/numbers/number_two_sound.mp3',
-        egName: 'two',
+        enName: 'two',
         jpName: 'ni'),
     ItemModel(
         sound: 'sounds/numbers/number_three_sound.mp3',
-        egName: 'three',
+        enName: 'three',
         jpName: 'san'),
     ItemModel(
         sound: 'sounds/numbers/number_four_sound.mp3',
-        egName: 'four',
+        enName: 'four',
         jpName: 'shi'),
     ItemModel(
         sound: 'sounds/numbers/number_five_sound.mp3',
-        egName: 'five',
+        enName: 'five',
         jpName: 'go'),
     ItemModel(
         sound: 'sounds/numbers/number_six_sound.mp3',
-        egName: 'sex',
+        enName: 'sex',
         jpName: 'roku'),
     ItemModel(
         sound: 'sounds/numbers/number_seven_sound.mp3',
-        egName: 'seven',
+        enName: 'seven',
         jpName: 'sebun'),
     ItemModel(
         sound: 'sounds/numbers/number_eight_sound.mp3',
-        egName: 'eight',
+        enName: 'eight',
         jpName: 'hachi'),
     ItemModel(
         sound: 'sounds/numbers/number_nine_sound.mp3',
-        egName: 'nine',
+        enName: 'nine',
         jpName: 'kyu'),
     ItemModel(
         sound: 'sounds/numbers/number_ten_sound.mp3',
-        egName: 'ten',
+        enName: 'ten',
         jpName: 'ju'),
   ];
 
